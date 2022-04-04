@@ -16,10 +16,10 @@
 ## Решение
 ***
 ### Изображения №№1,2 и 3 "Скрины VM"
-![Meta](hw2JvmVisualVm/pics/sc_(34)_meta.png "Meta")  
-![Heap](hw2JvmVisualVm/pics/sc_(33)_heap.png "Heap")  
-![Memory](hw2JvmVisualVm/pics/sc_(32)_15mln_Objects.png "Memory")  
-
+![Meta](https://github.com/Smile78/hwNet6Core10Jvm/blob/master/src/main/java/hw2JvmVisualVM/pics/sc_(34)_meta.png "Meta")  
+![Heap](https://github.com/Smile78/hwNet6Core10Jvm/blob/master/src/main/java/hw2JvmVisualVM/pics/sc_(33)_heap.png "Heap")  
+![Memory](https://github.com/Smile78/hwNet6Core10Jvm/blob/master/src/main/java/hw2JvmVisualVM/pics/sc_(32)_15mln_Objects.png "Memory")  
+ 
 ***
 ### Листинг с пояснениями 
 `0:10:00: Executing task 'JvmExperience.main()'...`
