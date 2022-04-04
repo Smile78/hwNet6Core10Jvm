@@ -37,31 +37,31 @@
 
 
 `00:10:30.694640800: loading io.vertx`  
-`00:10:30.992827800: loaded 529 classes`
-создаем в Stack фрейм loadToMetaspaceAllFrom
-записываем в Meta 529 классов NIO client sever фреймворка Nitty
-(отражено в Monitor Meta) - M01
-(отражено в Monitor Classes) -C01
+`00:10:30.992827800: loaded 529 classes`  
+создаем в Stack фрейм loadToMetaspaceAllFrom  
+записываем в Meta 529 классов NIO client sever фреймворка Nitty  
+(отражено в Monitor Meta) - M01  
+(отражено в Monitor Classes) -C01  
 (отражено в Monitor Heap) -H00
 
 `00:10:33.992986900: loading io.netty`  
-`00:10:34.541292500: loaded 2117 classes`
-записываем в Meta 2117 классов NIO client sever фреймворка Nitty
-(отражено в Monitor Meta) - M02
+`00:10:34.541292500: loaded 2117 classes`  
+записываем в Meta 2117 классов NIO client sever фреймворка Nitty  
+(отражено в Monitor Meta) - M02  
 (отражено в Monitor Classes) -C02
 
 `00:10:37.545175500: loading org.springframework`  
-`00:10:37.763820300: loaded 869 classes`
-записываем в Meta 869 классов фреймворка "дЖава Упрощенки" Spring
+`00:10:37.763820300: loaded 869 classes`  
+записываем в Meta 869 классов фреймворка "дЖава Упрощенки" Spring  
 (отражено в Monitor Meta)- M02  
 (отражено в Monitor Classes) -C02
 
 `00:10:40.777854600: now see heap`  
 `00:10:40.777854600: creating 5000000 objects`  
 `00:10:41.027758900: created`  
-инициализируем в Stack фрейме main переменную типа List&lt;SimpleObjects&gt;  
-создаем в Stack фрейм createSimpleObjects 
-инициализируем в Heap 50млн экземпляров объектов типа Integer  
+инициализируем в Stack фрейме main переменную типа List&lt;SimpleObjects&gt;    
+создаем в Stack фрейм createSimpleObjects   
+инициализируем в Heap 50млн экземпляров объектов типа Integer    
 (отражено в Monitor Heap) -H01   
 
 `00:10:44.040976900: creating 5000000 objects`  
